@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-value',
   templateUrl: './value.component.html',
-  styleUrls: ['./value.component.sass']
+  styleUrls: ['./value.component.scss']
 })
 export class ValueComponent implements OnInit {
 
